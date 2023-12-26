@@ -15,7 +15,8 @@ https://github.com/yangxy/PASD
 https://arxiv.org/abs/2308.14469
 
 ### 🖼 Output
-![Screenshot 2023-12-26 015318](https://github.com/camenduru/PASD-colab/assets/54370274/b667e1a5-78c3-4928-b2a9-3ccb1ba23e74)
+
+https://github.com/camenduru/PASD-colab/assets/54370274/3931fbd4-ba0a-4676-a84a-c3756b94908e
 
 ### 🏢 Sponsor
 https://modelslab.com
